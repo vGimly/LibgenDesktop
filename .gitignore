@@ -1,0 +1,7 @@
+.vs
+*.suo
+packages
+LibgenDesktop.Setup/bin
+LibgenDesktop.Setup/obj
+LibgenDesktop/bin
+LibgenDesktop/obj
